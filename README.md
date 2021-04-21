@@ -1,6 +1,5 @@
-<h1>You can go anywhere you want.<h1>
+<h1 style="color: #e8e8e8;">You can go anywhere you want.<h1>
 <img src="https://github.com/SH-dxj-SF/MyRepo/blob/master/D-Rose-3-Nightmare-HERO.jpg?raw=true"/>
-######  stay hungry stay foolish
 
 <!--
 **SH-dxj-SF/SH-dxj-SF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
