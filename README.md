@@ -3,7 +3,7 @@
   <li>Stay hungry, stary foolish.</li>
   <li>当你不舒服的时候，就是你成长的时候。</li>
 </ul>
-<img src="https://github.com/SH-dxj-SF/MyRepo/blob/master/D-Rose-3-Nightmare-HERO.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/SH-dxj-SF/MyRepo/master/images/D-Rose-3-Nightmare-HERO.jpg"/>
 
 <!--
 **SH-dxj-SF/SH-dxj-SF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
